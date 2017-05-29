@@ -1,4 +1,4 @@
-title://h1[@class="h1"]
+title: //h1[contains(@class,"h1")]
 body: //div[@class="contenu-principal"]/div[@class="texte"]
 
 requires_login: yes
